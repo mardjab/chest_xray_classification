@@ -1,4 +1,4 @@
-# CHest X-ray classification
+# Chest X-ray classification
 
 ## Overview
 
