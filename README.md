@@ -6,7 +6,7 @@
 
 ## Goals
 
-For the model to be used to detect and classify human pulmonary diseases from chest x-ray images
+To build a model that can be used to detect and classify human pulmonary diseases from chest x-ray images
 
 
 ## Dataset
