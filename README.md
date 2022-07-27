@@ -6,7 +6,7 @@
 
 ## Goals
 
-For the code to be used to detect and classify human pulmonary diseases from chest x-ray images
+For the model to be used to detect and classify human pulmonary diseases from chest x-ray images
 
 
 ## Dataset
