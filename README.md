@@ -20,4 +20,11 @@ https://www.kaggle.com/datasets/jtiptj/chest-xray-pneumoniacovid19tuberculosis?s
 
 ## Milestones
 
+In this project I was able to:
+
+* Import a total of 6326 training images, 771 testing images and 38 validation images
+
+* Augment images using the ImageDataGenerator class
+
+* Build a model based on InceptionResNetV2 that classifies chest X-ray images into 4 classes (normal, tuberculosis, pneumonia or COVID-19) with 96.8% accuracy
 
